@@ -1,5 +1,5 @@
 Old Pipeline Instructions : 
-1) Run IPU using code from Aastha
+1) Generate base population using aastha_code_cleaned.ipynb
 2) Add HLat, HLong, AdminUnits to households and age to individuals using hlat_hlong_addition.ipynb
 3) Add JobLabel, JobID using code from Vedansh
 4) Add Workplaces, Schools, Public Places, and associated lat longs using places_addition.ipynb
