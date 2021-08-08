@@ -12,10 +12,10 @@ ihds_household_filename = "/content/drive/MyDrive/data/aastha synthetic/36151-00
 #The geojson must have ward names as well. This should match with the population file defined below
 admin_units_geojson_filename = "https://raw.githubusercontent.com/datameet/Municipal_Spatial_Data/master/Mumbai/BMC_Wards.geojson"
 
-#I write to this file but it can be a CSV as well
+#From https://data.worldpop.org/GIS/Population_Density/Global_2000_2020_1km/2020/IND/ind_pd_2020_1km_ASCII_XYZ.zip unzip this
 population_density_filename = "ind_pd_2020_1km_ASCII_XYZ.csv"
 
-#From https://data.worldpop.org/GIS/Population_Density/Global_2000_2020_1km/2020/IND/ind_pd_2020_1km_ASCII_XYZ.zip unzip this
+#I write to this file but it can be a CSV as well
 admin_units_population_filename = "mumbai_ward_wise_pop.csv" 
  
 # select state number and name appropriately
